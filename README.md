@@ -1,0 +1,2 @@
+# ERW_CD74HC4067
+TI 1-16 mux/demux ic. CD74HC4067
